@@ -1,6 +1,6 @@
 #支持私库
 
-elasticsearch:8.11.30
+elasticsearch:8.11.3
 mysql:8.0.39
 postgres:13
 redis:6
